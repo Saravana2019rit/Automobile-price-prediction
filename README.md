@@ -10,19 +10,23 @@
 
 # AUTOMOBILE PRICE PREDICTION MACHINE LEARNING MODEL:
 
-                                 ![Capture 11](https://user-images.githubusercontent.com/89646194/152634530-a1ac1274-a1a1-4c5e-9633-b55cb43f4baa.PNG)
-                                 
+                                ![image](https://user-images.githubusercontent.com/89646194/152635450-f87b64cf-fff9-47b4-a8fe-68b2fe460510.png)
+
 # SELECT COLUMNS IN DATASET:
 
-                                 ![image](https://user-images.githubusercontent.com/89646194/152634653-d3333179-3e07-4721-a19c-8b6cf765b030.png)
+                                ![image](https://user-images.githubusercontent.com/89646194/152635477-66f5d42f-7ec6-4d05-b6ff-e41953b9d88a.png)
+
 
 # TRAINED MODEL:
+                     
+                                ![image](https://user-images.githubusercontent.com/89646194/152635494-6a674011-0ab1-4e8d-bf2d-00f7e8311612.png)
 
-                                 ![image](https://user-images.githubusercontent.com/89646194/152634698-1d02d1bd-2e27-4a40-bcab-32f857ba0cdc.png)
 
 # EVALUATION MODEL:
 
-                                 ![image](https://user-images.githubusercontent.com/89646194/152634722-ae2e6452-1260-40c1-9831-cddf83aacd13.png)
+                               ![image](https://user-images.githubusercontent.com/89646194/152635519-3eebe80b-d120-44f0-98b5-e88cc984db34.png)
+
+# PUBLISH TO GALLERY:
 
       
            https://gallery.cortanaintelligence.com/Experiment/Automobile-price-prediction-422
