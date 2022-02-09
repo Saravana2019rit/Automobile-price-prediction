@@ -9,27 +9,28 @@
       Azure machine learning studio is used to create, train and evaluate the machine learning model. In Azure machine learning portal, select or import a dataset for the model. After uploading the dataset as CSV file, then select the blocks for the model and then connect and visualize the blocks. The final output will be visualized in the evaluated model
 
 # AUTOMOBILE PRICE PREDICTION MACHINE LEARNING MODEL:
+![image](https://user-images.githubusercontent.com/89646194/153185500-86dc5920-bd39-4446-afe9-faedc44f4adc.png)
 
-                                ![image](https://user-images.githubusercontent.com/89646194/152635450-f87b64cf-fff9-47b4-a8fe-68b2fe460510.png)
 
 # SELECT COLUMNS IN DATASET:
 
-                                ![image](https://user-images.githubusercontent.com/89646194/152635477-66f5d42f-7ec6-4d05-b6ff-e41953b9d88a.png)
+![image](https://user-images.githubusercontent.com/89646194/153185681-2a1200ac-63da-47db-bcde-cebfed72b9a5.png)
 
 
 # TRAINED MODEL:
                      
-                                ![image](https://user-images.githubusercontent.com/89646194/152635494-6a674011-0ab1-4e8d-bf2d-00f7e8311612.png)
+![image](https://user-images.githubusercontent.com/89646194/153185880-6d5e89b1-d863-4ced-9874-ca760d2f574a.png)
+
 
 
 # EVALUATION MODEL:
 
-                               ![image](https://user-images.githubusercontent.com/89646194/152635519-3eebe80b-d120-44f0-98b5-e88cc984db34.png)
+![image](https://user-images.githubusercontent.com/89646194/153186022-fdc030ed-f980-4cd6-9a77-1e34db67d9d1.png)
+                           
 
 # PUBLISH TO GALLERY:
+https://gallery.cortanaintelligence.com/Experiment/Automobile-price-prediction-422
 
-      
-           https://gallery.cortanaintelligence.com/Experiment/Automobile-price-prediction-422
 
 
 
